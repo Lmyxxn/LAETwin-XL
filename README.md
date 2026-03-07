@@ -55,3 +55,4 @@ python merge_all_scene_channels.py
 
 ### Our dataset is released at:
 https://drive.google.com/drive/folders/1PnjIwXSudX33-_4c_0Es1WZ10MXFgw82?usp=drive_link
+https://huggingface.co/datasets/lmyxxn/XL-MIMO-LAE-Dataset
