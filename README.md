@@ -1,8 +1,12 @@
 # Digital Twin-Based Channel Generation Toolchain for Low-Altitude XL-MIMO
 
-**Official repository for the paper:**
-> **Digital Twin-Based Channel Generation Toolchain and Foundation Model for Low-Altitude XL-MIMO**
-Paper will be public at arxiv soon.
+This README provides a concise overview of the dataset generation workflow, environment setup, data schema, and basic statistics. For more detailed descriptions, visual examples, benchmark tasks, and dataset documentation, please refer to our project website: **https://lmyxxn.github.io/6GXLMIMODatasets/**
+
+## 🔗 Links
+
+- **Project page:** https://lmyxxn.github.io/6GXLMIMODatasets/
+- **Dataset and codebooks:** https://huggingface.co/datasets/lmyxxn/MultimodalNF
+- **Paper:**
 ---
 
 ## 📂 Repository Structure & Methodology
