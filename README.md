@@ -5,7 +5,7 @@ This README provides a concise overview of the dataset generation workflow, envi
 ## 🔗 Links
 
 - **Project page:** https://lmyxxn.github.io/6GXLMIMODatasets/
-- **Dataset and codebooks:** https://huggingface.co/datasets/lmyxxn/MultimodalNF
+- **Dataset and codebooks:** https://huggingface.co/datasets/lmyxxn/XL-MIMO-LAE-Dataset
 - **Paper:**
 ---
 
