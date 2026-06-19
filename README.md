@@ -86,4 +86,4 @@ python merge_all_scene_channels.py
 
 ### Our dataset is released at:
 
-https://huggingface.co/datasets/lmyxxn/XL-MIMO-LAE-Dataset
+https://huggingface.co/datasets/lmyxxn/LAETwin-XL
