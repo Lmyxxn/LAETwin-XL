@@ -6,7 +6,7 @@ This README provides a concise overview of the dataset generation workflow, envi
 
 * **Project page:** https://lmyxxn.github.io/6GXLMIMODatasets/
 * **Dataset and codebooks:** https://huggingface.co/datasets/lmyxxn/XL-MIMO-LAE-Dataset
-* **Paper:** M. Li, Y. Han, J. Tian, C.-K. Wen, and S. Jin, “Digital Twin-Based Channel Generation Toolchain and Foundation Model for Low-Altitude XL-MIMO,” *IEEE Journal of Selected Topics in Signal Processing*, 2026, doi: 10.1109/JSTSP.2026.3705369. https://arxiv.org/pdf/2606.14114
+* **Paper:** M. Li, Y. Han, J. Tian, C.-K. Wen, and S. Jin, “Digital Twin-Based Channel Generation Toolchain and Foundation Model for Low-Altitude XL-MIMO,” *IEEE Journal of Selected Topics in Signal Processing*, 2026, doi: 10.1109/JSTSP.2026.3705369.
 
 ---
 
